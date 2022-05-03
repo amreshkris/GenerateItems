@@ -1,0 +1,16 @@
+[
+    {
+        "BuyerId" : "123",
+        "Id":"123",
+        "Name": "Amresh",
+        "EmailId": "amresh.kris@gmail.com",
+        "ContactNumber" : "9742274685"
+    },
+    {
+        "BuyerId" : "234",
+        "Id":"234",
+        "Name": "John",
+        "EmailId": "john.kris@gmail.com",
+        "ContactNumber" : "9742274685"
+    }
+]
